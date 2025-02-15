@@ -21,12 +21,12 @@ Gracias a la estructura modular del código, el sistema puede ser fácilmente es
 
 ##  Instalación y Configuración
 
-### **Requisitos Previos**
+### Requisitos Previos
 Antes de comenzar, se debe tener instalado lo siguiente:
 
-- **XAMPP** para ejecutar un servidor local.
-- **Navegador Web** (Chrome, Firefox, Edge, etc.).
-- **Editor de código** (Visual Studio Code).
+- XAMPP para ejecutar un servidor local.
+- Navegador Web (Chrome, Firefox, Edge, etc.).
+- Editor de código (Visual Studio Code).
 - 
 ## Estructura del Proyecto
 ```
@@ -51,7 +51,6 @@ Antes de comenzar, se debe tener instalado lo siguiente:
 │── README.md              # Documentación del proyecto
 
 ```
-
 ## Cómo Usar el Sistema
  Registro de Usuarios
 1. Ir a http://localhost/biblioteca/crear_usuario.php.
@@ -69,7 +68,7 @@ Antes de comenzar, se debe tener instalado lo siguiente:
 * Editar libros en http://localhost/biblioteca/editar.php.
 * Eliminar libros en http://localhost/biblioteca/eliminar.php.
 
-##Formulario de Contacto
+## Formulario de Contacto
 Acceder a http://localhost/biblioteca/contacto.php.
 Completar el formulario y enviarlo.
 Se procederá a almacenar los mensajes en la base de datos.
@@ -77,7 +76,7 @@ Se procederá a almacenar los mensajes en la base de datos.
 ## Cerrar Sesión
 * Hacer clic en Cerrar Sesión o ir a http://localhost/biblioteca/logout.php.
 
-##Seguridad Implementada
+## Seguridad Implementada
 * Se procedió a implementar autenticación con sesiones en PHP.
 * Las contraseñas se encriptan con password_hash().
 * Protección contra inyecciones SQL mediante mysqli_prepare().
