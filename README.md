@@ -8,7 +8,7 @@ El diseño de la interfaz es intuitivo y adaptable, utilizando HTML, CSS y PHP p
 
 Gracias a la estructura modular del código, el sistema puede ser fácilmente escalable e integrado con nuevas funcionalidades en el futuro, convirtiéndolo en una herramienta versátil para la gestión bibliográfica en entornos académicos o personales.
 
-
+![Proyecto](https://github.com/JCPB2000/biblioteca/blob/main/Image%201.jpeg)
 
 ## Características del Proyecto
 
