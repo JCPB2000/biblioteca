@@ -68,10 +68,15 @@ Antes de comenzar, se debe tener instalado lo siguiente:
 * Editar libros en http://localhost/biblioteca/editar.php.
 * Eliminar libros en http://localhost/biblioteca/eliminar.php.
 
+  ![Proyecto](https://github.com/JCPB2000/biblioteca/blob/main/Image%203.jpeg)
+
+
 ## Formulario de Contacto
 Acceder a http://localhost/biblioteca/contacto.php.
 Completar el formulario y enviarlo.
 Se procederá a almacenar los mensajes en la base de datos.
+
+  ![Proyecto](https://github.com/JCPB2000/biblioteca/blob/main/Image%204.jpeg)
 
 ## Cerrar Sesión
 * Hacer clic en Cerrar Sesión o ir a http://localhost/biblioteca/logout.php.
