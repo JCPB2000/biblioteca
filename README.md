@@ -64,25 +64,25 @@ Antes de comenzar, se debe tener instalado lo siguiente:
 3. Se verificará si las credenciales son correctas para acceder al sistema.
    
 ## Gestión de Libros
-✔ Se puede agregar un nuevo libro en http://localhost/biblioteca/registrar.php.
-✔ Listar libros en http://localhost/biblioteca/listar.php.
-✔ Editar libros en http://localhost/biblioteca/editar.php.
-✔ Eliminar libros en http://localhost/biblioteca/eliminar.php.
+* Se puede agregar un nuevo libro en http://localhost/biblioteca/registrar.php.
+* Listar libros en http://localhost/biblioteca/listar.php.
+* Editar libros en http://localhost/biblioteca/editar.php.
+* Eliminar libros en http://localhost/biblioteca/eliminar.php.
 
-## Formulario de Contacto
+##Formulario de Contacto
 Acceder a http://localhost/biblioteca/contacto.php.
 Completar el formulario y enviarlo.
 Se procederá a almacenar los mensajes en la base de datos.
 
 ## Cerrar Sesión
-Hacer clic en Cerrar Sesión o ir a http://localhost/biblioteca/logout.php.
+* Hacer clic en Cerrar Sesión o ir a http://localhost/biblioteca/logout.php.
 
-## Seguridad Implementada
-✔ Se procedió a implementar autenticación con sesiones en PHP.
-✔ Las contraseñas se encriptan con password_hash().
-✔ Protección contra inyecciones SQL mediante mysqli_prepare().
-✔ Se sanitizan entradas con htmlspecialchars().
-✔ Confirmaciones en eliminaciones para evitar borrados accidentales.
+##Seguridad Implementada
+* Se procedió a implementar autenticación con sesiones en PHP.
+* Las contraseñas se encriptan con password_hash().
+* Protección contra inyecciones SQL mediante mysqli_prepare().
+* Se sanitizan entradas con htmlspecialchars().
+* Confirmaciones en eliminaciones para evitar borrados accidentales.
 
 ## Código Relevante para el Proyecto.
 Manejo de Sesiones y Seguridad (login.php)
