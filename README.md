@@ -27,7 +27,7 @@ Antes de comenzar, se debe tener instalado lo siguiente:
 - XAMPP para ejecutar un servidor local.
 - Navegador Web (Chrome, Firefox, Edge, etc.).
 - Editor de código (Visual Studio Code).
-- 
+  
 ## Estructura del Proyecto
 ```
 📂 biblioteca/
