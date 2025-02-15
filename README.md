@@ -68,6 +68,8 @@ Antes de comenzar, se debe tener instalado lo siguiente:
 * Editar libros en http://localhost/biblioteca/editar.php.
 * Eliminar libros en http://localhost/biblioteca/eliminar.php.
 
+  ![Proyecto](https://github.com/JCPB2000/biblioteca/blob/main/Image%202.jpeg)
+
   ![Proyecto](https://github.com/JCPB2000/biblioteca/blob/main/Image%203.jpeg)
 
 
